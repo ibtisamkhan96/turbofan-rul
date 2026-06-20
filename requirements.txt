@@ -1,0 +1,5 @@
+torch
+numpy
+pandas
+matplotlib
+# CPU PyTorch is fine; the model trains in a couple of minutes on a laptop.

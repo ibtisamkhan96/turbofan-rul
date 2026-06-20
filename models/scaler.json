@@ -1,0 +1,52 @@
+{
+  "min": {
+    "sensor2": 641.21,
+    "sensor3": 1571.04,
+    "sensor4": 1382.25,
+    "sensor7": 549.85,
+    "sensor8": 2387.9,
+    "sensor9": 9021.73,
+    "sensor11": 46.85,
+    "sensor12": 518.69,
+    "sensor13": 2387.88,
+    "sensor14": 8099.94,
+    "sensor15": 8.3249,
+    "sensor17": 388.0,
+    "sensor20": 38.14,
+    "sensor21": 22.8942
+  },
+  "range": {
+    "sensor2": 3.3199999999999363,
+    "sensor3": 45.87000000000012,
+    "sensor4": 59.24000000000001,
+    "sensor7": 6.209999999999923,
+    "sensor8": 0.6599999999998545,
+    "sensor9": 222.86000000000058,
+    "sensor11": 1.6799999999999997,
+    "sensor12": 4.689999999999941,
+    "sensor13": 0.6799999999998363,
+    "sensor14": 193.77999999999975,
+    "sensor15": 0.2599,
+    "sensor17": 12.0,
+    "sensor20": 1.2899999999999991,
+    "sensor21": 0.7241999999999997
+  },
+  "features": [
+    "sensor2",
+    "sensor3",
+    "sensor4",
+    "sensor7",
+    "sensor8",
+    "sensor9",
+    "sensor11",
+    "sensor12",
+    "sensor13",
+    "sensor14",
+    "sensor15",
+    "sensor17",
+    "sensor20",
+    "sensor21"
+  ],
+  "window": 30,
+  "rul_cap": 125
+}

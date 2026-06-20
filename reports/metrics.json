@@ -1,0 +1,8 @@
+{
+  "test_rmse": 13.32,
+  "nasa_score": 284.0,
+  "val_rmse_final": 14.81,
+  "epochs": 40,
+  "n_features": 14,
+  "window": 30
+}
